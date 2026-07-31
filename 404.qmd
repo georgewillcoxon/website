@@ -1,0 +1,9 @@
+---
+title: "Page not found"
+---
+
+The page you were looking for has moved or no longer exists — this site was
+rebuilt in 2026 and the old blog archive was retired. The essentials are all
+here: [about me](/about.html), my [experience](/experience.html), my
+[research and publications](/publications.html), or [how to reach
+me](/contact.html).
