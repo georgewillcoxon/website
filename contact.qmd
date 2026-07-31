@@ -1,5 +1,7 @@
 ---
 title: "Contact"
+aliases:
+  - /Contact/
 ---
 
 The best way to reach me is by email at [gwillcoxon@gmail.com](mailto:gwillcoxon@gmail.com), or through LinkedIn at [linkedin.com/in/willcoxon](https://www.linkedin.com/in/willcoxon/). I am always glad to hear from colleagues, researchers, and practitioners working on conflict, development, political economy, or the governance of emerging technologies.
