@@ -33,14 +33,14 @@ Deployed at short notice to UN Resident Coordinator offices in conflict and cris
 [Development Coordination Officer & Economist]{.role-title}<br>
 [UNSCO, Jerusalem · 2019–2022]{.role-meta}
 
-Economic adviser within the office of the UN's Middle East envoy. Spearheaded major analytical products, including the UN's COVID-19 socioeconomic response plan for the Palestinian territory, and co-led the 2021 Gaza Rapid Damage and Needs Assessment with the World Bank and the European Union.
+Political-economic adviser within the office of the UN's Middle East envoy. Spearheaded major analytical products, including the UN's COVID-19 socioeconomic response plan for the Occupied Palestinian Territory, and co-led the 2021 Gaza Rapid Damage and Needs Assessment with the World Bank and the European Union.
 :::
 
 ::: {.role}
 [Political Affairs Officer]{.role-title}<br>
 [Office of the Special Adviser to the Secretary-General on Cyprus, Nicosia · 2016–2018]{.role-meta}
 
-Lead facilitator on economic power-sharing during the most intensive round of UN-led reunification talks in a generation. Advised the Special Adviser's team in the negotiating room and served as focal point for the World Bank, the International Monetary Fund, and the European Commission.
+Lead facilitator on economic power-sharing during the most intensive round of UN-led reunification talks in a generation. Advised the Special Adviser in the negotiating room and served as focal point for the World Bank, the International Monetary Fund, and the European Commission.
 :::
 
 ::: {.role}
@@ -59,5 +59,5 @@ Political and conflict-risk consulting in Washington, D.C.; twice a Summer Assoc
 ::: {.role}
 [Education]{.role-title}
 
-Ph.D. in Political Science and Master of Public Policy, University of California, Berkeley. B.A. in Politics with honors, Princeton University.
+Ph.D. in Political Science and Master of Public Policy, University of California, Berkeley. A.B. in Politics with honors, Princeton University.
 :::
