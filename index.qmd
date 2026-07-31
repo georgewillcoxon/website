@@ -1,0 +1,26 @@
+---
+title: "George Willcoxon"
+image: assets/headshot.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:gwillcoxon@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/willcoxon/
+---
+
+::: {.tagline}
+Political economist. Senior United Nations official. Quantitative social scientist.
+:::
+
+For more than a decade I have served the United Nations in some of its most demanding duty stations: Jerusalem, Baghdad, Kabul, Yangon, Nicosia, Beirut, and Pristina. I have led multinational teams through war and crisis, advised under-secretaries-general and ambassadors, facilitated negotiations alongside UN mediators, and co-led the international assessments that put a number on the cost of war. Through all of it runs a single conviction: rigorous analysis, honestly communicated, improves decisions when the stakes are highest.
+
+I am a political scientist by training (Ph.D., UC Berkeley) and a quantitative social scientist by practice. I currently serve as the senior economist for the United Nations in Kosovo, and I am based in the San Francisco Bay Area, where I grew up.
+
+More about my work on the [About](about.qmd) page. Selected research and reports under [Research & Publications](publications.qmd).

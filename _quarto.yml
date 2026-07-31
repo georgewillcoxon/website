@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "George Willcoxon"
+  description: "George Willcoxon is a political economist and senior United Nations official with more than a decade of leadership in conflict and crisis settings across the Middle East, Asia, and Southeastern Europe."
+  site-url: https://georgewillcoxon.com
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "Experience"
+        href: experience.qmd
+      - text: "Research & Publications"
+        href: publications.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    center: "© George Willcoxon. The views expressed on this site are my own and do not necessarily reflect those of the United Nations."
+
+format:
+  html:
+    theme: [litera, custom.scss]
+    toc: false
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="author" content="George Willcoxon">

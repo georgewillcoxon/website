@@ -1,0 +1,77 @@
+/*-- scss:defaults --*/
+
+$headings-font-family: Georgia, "Times New Roman", serif;
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$body-color: #212529;
+$link-color: #1a5276;
+$navbar-bg: #ffffff;
+$footer-bg: #ffffff;
+
+/*-- scss:rules --*/
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.navbar .nav-link {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.navbar {
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.navbar-title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+h1, h2, h3 {
+  letter-spacing: 0.01em;
+}
+
+h1 { font-size: 1.85rem; }
+h2 { font-size: 1.3rem; margin-top: 2rem; }
+
+.tagline {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.15rem;
+  color: #444;
+  margin-bottom: 1.4rem;
+}
+
+.pub-entry {
+  margin-bottom: 0.8rem;
+  padding-left: 1.5rem;
+  text-indent: -1.5rem;
+}
+
+.role {
+  margin-bottom: 1.3rem;
+}
+
+.role .role-title {
+  font-weight: 600;
+}
+
+.role .role-meta {
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.page-footer, .nav-footer {
+  border-top: 1px solid #e6e6e6;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+main.content {
+  max-width: 46rem;
+}
+
+.about-entity main.content {
+  max-width: none;
+}

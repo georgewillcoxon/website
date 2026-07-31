@@ -1,0 +1,113 @@
+---
+title: "Research & Publications"
+---
+
+My research and analytical work spans peacebuilding, post-war political economy, security sector reform, and risk forecasting. This page lists selected publications and major institutional projects. Institutional reports are collective products; my role is noted where it was substantial.
+
+## Peer-reviewed and academic
+
+::: {.pub-entry}
+Willcoxon, G.F. (2017). "Contention, Violence, and Stalemate in Post-War Libya." *Mediterranean Politics*, 22(1), 91–114.
+:::
+
+::: {.pub-entry}
+Willcoxon, N.E., & Willcoxon, G.F. (2011). "The Political Economy of Decline in California." *California Journal of Politics and Policy*, 3(1).
+:::
+
+::: {.pub-entry}
+Willcoxon, G.F. (2015). *Peacebuilding, Political Order, and Post-War Risks.* Doctoral dissertation, University of California, Berkeley.
+:::
+
+## Policy reports and institutional publications
+
+::: {.pub-entry}
+World Bank, United Nations, and European Union (2025). *Gaza and West Bank Rapid Damage and Needs Assessment.* Co-lead.
+:::
+
+::: {.pub-entry}
+UN Country Team in Afghanistan (2024). *UN Strategic Framework for Afghanistan.* Facilitator and contributor.
+:::
+
+::: {.pub-entry}
+UN Country Team in Myanmar (2024). *UN Transitional Cooperation Framework for Myanmar.* Facilitator and contributor.
+:::
+
+::: {.pub-entry}
+World Bank, United Nations, and European Union (2021). *Gaza Rapid Damage and Needs Assessment.* Co-lead.
+:::
+
+::: {.pub-entry}
+UN ESCWA (2020). *Trends and Impacts VI: Developing a Risk-Assessment Framework for the Arab Region.* Co-lead.
+:::
+
+::: {.pub-entry}
+Nygård, H.M., & Willcoxon, G.F. (2019). *Anticipating Risks in the Arab Region: A Machine Learning Approach.* ESCWA Technical Paper.
+:::
+
+::: {.pub-entry}
+Willcoxon, G.F. (2019). *Understanding Risks.* ESCWA Technical Paper.
+:::
+
+::: {.pub-entry}
+UN ESCWA (2018). *The Arab Governance Report*, Vol. 3. Contributor.
+:::
+
+::: {.pub-entry}
+Willcoxon, G.F. (2016). *Political Transformation and Conflict: Post-War Risks in the Arab Region.* ESCWA Technical Paper.
+:::
+
+::: {.pub-entry}
+UN ESCWA (2016). *The Arab Governance Report*, Vol. 2. Contributor.
+:::
+
+::: {.pub-entry}
+UN ESCWA (2015). *Trends and Impacts IV: Protracted Conflict and Development in the Arab Region.* Contributor.
+:::
+
+::: {.pub-entry}
+Gartenstein-Ross, D., Barr, N., Willcoxon, G.F., & Basuni, N. (2015). *The Crisis in North Africa: Implications for Europe and Options for EU Policymakers.* Clingendael, Netherlands Institute of International Relations.
+:::
+
+::: {.pub-entry}
+Chivvis, C.S., Oliker, O., Liepman, A., Connable, B., Willcoxon, G., & Young, W. (2013). *Initial Thoughts on the Impact of the Iraq War on U.S. National Security Structures.* RAND Corporation.
+:::
+
+::: {.pub-entry}
+Willcoxon, G.F. (2012). *The Security Sector After Qaddafi: Challenges for the Transition in Libya.* RAND Corporation, WR-964-SRF.
+:::
+
+::: {.pub-entry}
+Willcoxon, G.F., ed. (2006). *Handbook on Terrorism and Organized Crime Law in Kosovo.* Kosovo Law Centre, Pristina.
+:::
+
+## Public commentary
+
+::: {.pub-entry}
+"Why do countries relapse into war? Here are three good predictors." *The Washington Post* (Monkey Cage), March 2017.
+:::
+
+::: {.pub-entry}
+"Some Reflections on the Revolution in Libya and on Avoiding a Recurrence of Civil War." *The Diplomatist*, 2014.
+:::
+
+::: {.pub-entry}
+"An Invitation to a Summit." *San Francisco Chronicle*, 2007.
+:::
+
+## Working papers and work in progress
+
+::: {.pub-entry}
+Chiodi, V., Grigoriadis, T., & Willcoxon, G.F. "Conflict, Inequality, and Development in the Arab Region." Under review.
+:::
+
+::: {.pub-entry}
+"Regimes, Rights, and Growth: Post-War Risks in the Arab Region since 1946." In preparation.
+:::
+
+::: {.pub-entry}
+"The Cyprus Negotiations and the United Nations." In preparation.
+:::
+
+::: {.pub-entry}
+"Civic Values, Extremism, and Conflict." Paper presented at the Midwest Political Science Association, 2019.
+:::
