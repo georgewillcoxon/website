@@ -1,5 +1,7 @@
 ---
 title: "Research & Publications"
+aliases:
+  - /publications/
 ---
 
 My research and analytical work spans peacebuilding, post-war political economy, security sector reform, and risk forecasting. This page lists selected publications and major institutional projects. Institutional reports are collective products; my role is noted where it was substantial.
