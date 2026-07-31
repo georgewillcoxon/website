@@ -1,5 +1,7 @@
 ---
 title: "About"
+aliases:
+  - /about/
 ---
 
 I am a political economist and senior United Nations official. For more than a decade I have worked at the center of some of the world's hardest problems: the Israeli-Palestinian conflict, the wars and political transitions of the Arab region, the reunification talks in Cyprus, and crises in Iraq, Myanmar, and Afghanistan. I currently serve as senior economist for the UN development system in Kosovo.
