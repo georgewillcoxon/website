@@ -1,5 +1,7 @@
 ---
 title: "Experience"
+aliases:
+  - /experience/
 ---
 
 ::: {style="float: right; width: 240px; margin: 0 0 1rem 1.5rem;"}
