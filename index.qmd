@@ -1,5 +1,7 @@
 ---
 title: "George Willcoxon"
+aliases:
+  - /index/
 image: assets/headshot.jpg
 toc: false
 about:
