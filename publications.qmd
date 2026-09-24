@@ -9,25 +9,25 @@ My research and analytical work spans peacebuilding, post-war political economy,
 ## Peer-reviewed and academic
 
 ::: {.pub-entry}
-Willcoxon, G.F. (2017). "Contention, Violence, and Stalemate in Post-War Libya." *Mediterranean Politics*, 22(1), 91–114.
+Willcoxon, G.F. (2017). ["Contention, Violence, and Stalemate in Post-War Libya."](https://doi.org/10.1080/13629395.2016.1230950) *Mediterranean Politics*, 22(1), 91–114. Reprinted in A. Campana & C. Jourde (eds.), [*Islamism and Social Movements in North Africa, the Sahel and Beyond: Transregional and Local Perspectives*](https://www.routledge.com/Islamism-and-Social-Movements-in-North-Africa-the-Sahel-and-Beyond-Transregional/Campana-Jourde/p/book/9781315143576) (Routledge, 2018).
 :::
 
 ::: {.pub-entry}
-Willcoxon, N.E., & Willcoxon, G.F. (2011). "The Political Economy of Decline in California." *California Journal of Politics and Policy*, 3(1).
+Willcoxon, N.E., & Willcoxon, G.F. (2011). ["The Political Economy of Decline in California."](https://escholarship.org/uc/item/57p570md) *California Journal of Politics and Policy*, 3(1).
 :::
 
 ::: {.pub-entry}
-Willcoxon, G.F. (2015). *Peacebuilding, Political Order, and Post-War Risks.* Doctoral dissertation, University of California, Berkeley.
+Willcoxon, G.F. (2015). [*Peacebuilding, Political Order, and Post-War Risks.*](https://escholarship.org/uc/item/14p455v4) Doctoral dissertation, University of California, Berkeley.
 :::
 
 ## Policy reports and institutional publications
 
 ::: {.pub-entry}
-World Bank, United Nations, and European Union (2025). *Gaza and West Bank Rapid Damage and Needs Assessment.* Co-lead.
+World Bank, United Nations, and European Union (2025). [*Gaza and West Bank Interim Rapid Damage and Needs Assessment.*](https://palestine.un.org/en/289429-gaza-and-west-bank-interim-rapid-damage-and-needs-assessment-february-2025) Co-lead.
 :::
 
 ::: {.pub-entry}
-UN Country Team in Afghanistan (2024). *UN Strategic Framework for Afghanistan.* Facilitator and contributor.
+UN Country Team in Afghanistan (2023). [*UN Strategic Framework for Afghanistan.*](https://afghanistan.un.org/en/238795-united-nations-strategic-framework-afghanistan) Facilitator and contributor.
 :::
 
 ::: {.pub-entry}
@@ -35,15 +35,15 @@ UN Country Team in Myanmar (2024). *UN Transitional Cooperation Framework for My
 :::
 
 ::: {.pub-entry}
-World Bank, United Nations, and European Union (2021). *Gaza Rapid Damage and Needs Assessment.* Co-lead.
+World Bank, United Nations, and European Union (2021). [*Gaza Rapid Damage and Needs Assessment.*](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/178021624889455367/gaza-rapid-damage-and-needs-assessment) Co-lead.
 :::
 
 ::: {.pub-entry}
-UN ESCWA (2020). *Trends and Impacts VI: Developing a Risk-Assessment Framework for the Arab Region.* Co-lead.
+UN ESCWA (2020). [*Trends and Impacts in Conflict Settings, No. 6: Developing a Risk-Assessment Framework for the Arab Region.*](https://www.unescwa.org/publications/trends-and-impacts-conflict-settings-no-6-developing-risk-assessment-framework-arab) Co-lead.
 :::
 
 ::: {.pub-entry}
-Nygård, H.M., & Willcoxon, G.F. (2019). *Anticipating Risks in the Arab Region: A Machine Learning Approach.* ESCWA Technical Paper.
+Nygård, H.M., & Willcoxon, G.F. (2019). *Anticipating Risks in the Arab Region: A Machine Learning Approach.* ESCWA Technical Paper. [PDF](files/Nygard-Willcoxon-Anticipating-Risks.pdf)
 :::
 
 ::: {.pub-entry}
@@ -51,7 +51,7 @@ Willcoxon, G.F. (2019). *Understanding Risks.* ESCWA Technical Paper.
 :::
 
 ::: {.pub-entry}
-UN ESCWA (2018). *The Arab Governance Report*, Vol. 3. Contributor.
+UN ESCWA (2018). [*Arab Governance Report III: Institutional Development in Post-Conflict Settings.*](https://www.unescwa.org/publications/arab-governance-report-iii-institutional-development-post-conflict-settings) Contributor.
 :::
 
 ::: {.pub-entry}
@@ -59,19 +59,19 @@ Willcoxon, G.F. (2016). *Political Transformation and Conflict: Post-War Risks i
 :::
 
 ::: {.pub-entry}
-UN ESCWA (2016). *The Arab Governance Report*, Vol. 2. Contributor.
+UN ESCWA (2016). [*Arab Governance Report II: Governance and Institutional Transformations in Conflict-Affected Arab Countries.*](https://www.un-ilibrary.org/content/books/9789211545012) Contributor.
 :::
 
 ::: {.pub-entry}
-UN ESCWA (2015). *Trends and Impacts IV: Protracted Conflict and Development in the Arab Region.* Contributor.
+UN ESCWA (2015). [*Trends and Impacts in Conflict Settings, Issue No. 4: Protracted Conflict and Development in the Arab Region.*](https://www.unescwa.org/publications/protracted-conflict-and-development-arab-region-trends-and-impacts-conflict-settings) Contributor.
 :::
 
 ::: {.pub-entry}
-Gartenstein-Ross, D., Barr, N., Willcoxon, G.F., & Basuni, N. (2015). *The Crisis in North Africa: Implications for Europe and Options for EU Policymakers.* Clingendael, Netherlands Institute of International Relations.
+Gartenstein-Ross, D., Barr, N., Willcoxon, G.F., & Basuni, N. (2015). [*The Crisis in North Africa: Implications for Europe and Options for EU Policymakers.*](https://www.clingendael.org/sites/default/files/pdfs/The%20crisis%20in%20North%20Africa%20report%202015.pdf) Clingendael, Netherlands Institute of International Relations.
 :::
 
 ::: {.pub-entry}
-Chivvis, C.S., Oliker, O., Liepman, A., Connable, B., Willcoxon, G., & Young, W. (2013). *Initial Thoughts on the Impact of the Iraq War on U.S. National Security Structures.* RAND Corporation.
+Chivvis, C.S., Oliker, O., Liepman, A., Connable, B., Willcoxon, G., & Young, W. (2013). [*Initial Thoughts on the Impact of the Iraq War on U.S. National Security Structures.*](https://www.rand.org/pubs/perspectives/PE111.html) RAND Corporation.
 :::
 
 ::: {.pub-entry}
@@ -85,7 +85,7 @@ Willcoxon, G.F., ed. (2006). *Handbook on Terrorism and Organized Crime Law in K
 ## Public commentary
 
 ::: {.pub-entry}
-"Why do countries relapse into war? Here are three good predictors." *The Washington Post* (Monkey Cage), March 2017.
+["Why do countries relapse into war? Here are three good predictors."](https://www.washingtonpost.com/news/monkey-cage/wp/2017/03/29/why-do-countries-relapse-into-war-here-are-three-good-predictors/) *The Washington Post* (Monkey Cage), March 2017.
 :::
 
 ::: {.pub-entry}
